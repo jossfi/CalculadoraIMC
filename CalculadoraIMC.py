@@ -37,8 +37,8 @@ while True:
 
 
 #Obtener datos de entrada
-  peso = obtener_numero_valido("Ingresa tu peso en kilogramos: ")
-  altura = obtener_numero_valido("Ingresa tu altura en metros")
+  peso = obtener_num_valido("Ingresa tu peso en kilogramos: ")
+  altura = obtener_num_valido("Ingresa tu altura en metros")
 #condicion para solicitar salida
 
  #calcular IMC
